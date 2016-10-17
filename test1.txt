@@ -1,7 +1,0 @@
-read x;
-y := 10;
-write y;
-while y > 0 do
-	y = y - x;
-if y != -x then skip
-else write 0;
